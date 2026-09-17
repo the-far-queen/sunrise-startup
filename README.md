@@ -110,7 +110,12 @@ The 8 repos:
 | [content-axes-crypto](docs/content-axes-crypto.md) | 36 | structured crypto content (chart/technical, tokenomics, on-chain activity, etc.) |
 | [content-axes-stocks](docs/content-axes-stocks.md) | 32 | structured stock content (valuation, earnings, balance sheet, etc.) |
 
-These mirror the `far-art` 56-axis style schema pattern — axes are the
+These mirror the `far-art` 56-axis style schema pattern
+### Knowledge index
+
+- [competent-mans-index-heinlein-reframe](docs/competent-mans-index-heinlein-reframe.md) — Bobby's knowledge index of the AI agent + business ecosystem, in Heinlein's voice. 30 items across 6 sections (Development, Agents, Models, Data, Business, Media).
+
+ — axes are the
 contract, vibe is not.
 
 ## Sister sites
