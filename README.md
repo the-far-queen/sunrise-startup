@@ -102,6 +102,17 @@ The 8 repos:
 7. [the-far-queen/far-games](https://github.com/the-far-queen/far-games)
 8. [the-far-queen/sunrise-startup](https://github.com/the-far-queen/sunrise-startup) — this repo
 
+
+### Content axes (schemas for structured content generation)
+
+| Domain | Axes | Purpose |
+|---|---|---|
+| [content-axes-crypto](docs/content-axes-crypto.md) | 36 | structured crypto content (chart/technical, tokenomics, on-chain activity, etc.) |
+| [content-axes-stocks](docs/content-axes-stocks.md) | 32 | structured stock content (valuation, earnings, balance sheet, etc.) |
+
+These mirror the `far-art` 56-axis style schema pattern — axes are the
+contract, vibe is not.
+
 ## Sister sites
 
 - **farqueen.com** — the company's public website (under construction).
